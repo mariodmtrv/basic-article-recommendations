@@ -35,4 +35,8 @@ public class UserProfile {
     public void addProfileArticle(int articleId) {
         this.profileArticles.add(articleId);
     }
+
+    public void addRecommendation(Integer articleId) {
+        this.recommendations.add(articleId);
+    }
 }

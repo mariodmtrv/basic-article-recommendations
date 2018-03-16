@@ -85,4 +85,8 @@ public class ArticlesPool {
             }
         }
     }
+
+    public Map<Integer, Article> getArticlesPool() {
+        return articlesPool;
+    }
 }
