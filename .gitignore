@@ -1,0 +1,4 @@
+target/
+.idea/
+resources/20_newsgroups
+*.iml
